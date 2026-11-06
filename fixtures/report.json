@@ -1,0 +1,15 @@
+{
+  "scope": {
+    "authorization": "Fictional self-owned lab exercise only",
+    "targets": "In-memory Query Boundary Lab fixture",
+    "window": "One local execution",
+    "stop_conditions": "Stop before any external network interaction"
+  },
+  "finding": {
+    "title": "Query construction permits authentication bypass",
+    "evidence": "Run query-boundary-lab/main.py and observe vulnerable_bypass=true, parameterized_bypass=false",
+    "impact": "The intentionally vulnerable fixture accepts invalid credentials",
+    "remediation": "Bind query parameters; add production authentication controls separately",
+    "retest": "Execute the same payload against parameterized queries and run regression tests"
+  }
+}

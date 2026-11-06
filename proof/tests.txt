@@ -1,0 +1,12 @@
+test_complete_report (test_main.AssessmentTests.test_complete_report) ... ok
+test_does_not_mutate (test_main.AssessmentTests.test_does_not_mutate) ... ok
+test_missing_evidence (test_main.AssessmentTests.test_missing_evidence) ... ok
+test_multiple_issues (test_main.AssessmentTests.test_multiple_issues) ... ok
+test_nonobject (test_main.AssessmentTests.test_nonobject) ... ok
+test_whitespace (test_main.AssessmentTests.test_whitespace) ... ok
+test_wrong_section (test_main.AssessmentTests.test_wrong_section) ... ok
+
+----------------------------------------------------------------------
+Ran 7 tests in 0.001s
+
+OK

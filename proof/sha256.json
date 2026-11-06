@@ -1,0 +1,12 @@
+{
+  ".github/workflows/proof.yml": "6e09c64637971fce09dd12223e99174116176d741c96dd343157b9c6dddb3123",
+  ".gitignore": "4cad133d4f0a6cf4bba15f1b8bbae48d6a55f20b94f75487c51a93cc6a5af59f",
+  "LICENSE": "4c647c1ddf9d2bc606663209ec44018805eb9cd6170ed6763851e898bb2699c1",
+  "README.md": "3d1812b0c6d0eb1913f08b1e9b7079d128317a8770f057c5546233a7e953690f",
+  "demo.json": "d79fd0de468ab76439c7c335c52cc4cba5f69dbff00b0a0c074af50eeb6ccc83",
+  "docs/study-track.md": "089f4514d19b49515bec5d72045ffd035a058c5231cddcda74a517e0ad518bd7",
+  "fixtures/report.json": "020e647990112f220bdab81e99d37014450fdf4552eabd9a120fa5eec47ada44",
+  "main.py": "2a020ca67b13ff4233aeee7b69779dcb1bd5e51f69b3a4619c39548352b6ea4a",
+  "scripts/prove.py": "1d54a7054b589d568afd7027af18c04ccafca47fef5c1b3700c30d613ba98f24",
+  "test_main.py": "f5823feb6d5a9d77a08fef1644b0c1b18b9bb01893f5d1c0274a2e2bd21d2af7"
+}
